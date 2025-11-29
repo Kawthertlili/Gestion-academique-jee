@@ -126,7 +126,7 @@ coursWeb/
  │       └─ lib/ (dépendances éventuelles)
  └─ build/
 
-
+```
 ## 🎥 Démonstration Vidéo
 
 Pour visualiser le fonctionnement complet de l’application (gestion des étudiants, examens, sessions et spécialités), une vidéo de démonstration est fournie :
